@@ -1,2 +1,2 @@
 # livro-de-receitas
- Projeto simples apenas em html
+ Projeto simples, escrito majoritariamente em HTML.
