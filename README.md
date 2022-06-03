@@ -1,2 +1,3 @@
 # Livro de receitas
- Projeto simples, escrito majoritariamente em HTML.
+ Pequeno projeto feito em HTML5, nada de muito interessante.
+ 
